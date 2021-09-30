@@ -15,3 +15,4 @@
 
 - Mendeley Desktop
 - RStudio
+- Mathematica 12
